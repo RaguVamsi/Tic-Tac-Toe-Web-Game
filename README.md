@@ -17,6 +17,6 @@ Tic Tac Toe is traditionally played on a 3 × 3 grid. Players take turns placing
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript
+**Client:** Html, Css, Javascript
 
 
